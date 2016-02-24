@@ -1,0 +1,39 @@
+<!--Document Type: HTML  -->
+<html>
+    <head>
+        <title> Abby and Lindsay: A Funny Friendship </title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+      <header>
+      <nav>
+        <ul>
+          <li><a href="/mission.html">Our Mission</a></li>
+          <li><a href="/team.html">Our Team</a></li>
+          <li><a href="/contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+      <div class="my-nav">
+        <h1 id="happy-cake">Learn How to Have a Fun Friendship!</h1>
+      </div>
+       <section>
+        <p>We are going to teach you about the <a href="/about.html">important role of humor </a>  in a friendship today! <em> Get excited! </em></p>
+        <img src="img/abby_lindsay-goggle-image.jpg" alt="Abigail and Lindsay in Funny Goggles" >
+        <p> I am <em> beginning </em> to learn HTML & CSS. This is my first page! </p>
+       </section>
+       <aside>
+        <h2> Some things we'll learn today: </h2>
+          <p>
+           <ul>
+            <li>The Importance of Sarcasm in the Workplace: It's better than Murder </li>
+            <li>The Importance of Dogs in Costumes: Quality Bonding Time with your Pet </li>
+          </ul>
+        </p>
+      </aside>
+       <ol>
+         <li><strong>Author:</strong> Abigail Pendergrass</li><br/>
+         <li><strong>Email Me:</strong> pendergrass.abigail@gmail.com <br/><br/> <strong>OR</strong> send smoke signals in the general vicinity of SOBO. I'll keep an eye out for them!</li><br/>
+         <li> <a href="www.cats.com">Author's Cat Info</a></li>
+      </body>
+</html>
